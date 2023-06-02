@@ -73,6 +73,7 @@
 		5991DEB32A2933C200EF4C41 /* PostActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostActions.swift; sourceTree = "<group>"; };
 		5991DEB72A294B8B00EF4C41 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		5991DEB92A2950F100EF4C41 /* Video-Demo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Video-Demo.mov"; sourceTree = "<group>"; };
+		5991DEBA2A296D3500EF4C41 /* Hyperhire-Demo-Compressed.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hyperhire-Demo-Compressed.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 				5991DE462A2887DF00EF4C41 /* Views */,
 				5991DE382A2887CC00EF4C41 /* HyperhireApp.swift */,
 				5991DEB92A2950F100EF4C41 /* Video-Demo.mov */,
+				5991DEBA2A296D3500EF4C41 /* Hyperhire-Demo-Compressed.mp4 */,
 				5991DE3A2A2887CC00EF4C41 /* ContentView.swift */,
 				5991DE3C2A2887CE00EF4C41 /* Assets.xcassets */,
 				5991DE3E2A2887CE00EF4C41 /* Preview Content */,
